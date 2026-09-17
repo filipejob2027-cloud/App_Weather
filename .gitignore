@@ -1,0 +1,22 @@
+# Ficheiros com credenciais e chaves API (MUITO IMPORTANTE)
+.env
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+
+# Ambientes virtuais
+env/
+venv/
+.venv/
+
+# Cache do Requests / Open-Meteo
+.cache
+
+# Configurações do editor / IDE
+.vscode/
+.idea/
+
+# Ficheiros do SO
+Thumbs.db
+.DS_Store
